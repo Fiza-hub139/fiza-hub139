@@ -1,7 +1,9 @@
-## Hi there 👋
-Hello, I’m [Name] 👋
 
-I am a Junior Frontend Developer committed to translating design concepts into functional web experiences 🎨. My current workflow involves mastering the core pillars of frontend development and exploring modern styling techniques ✨. I use GitHub to document my progress and collaborate on software solutions that prioritize clean architecture and intuitive UI. 🚀
+Hello, I’m Fiza👋
+
+I am a Junior Frontend Developer committed to translating design concepts into functional web experiences 🎨. 
+My current workflow involves mastering the core pillars of frontend development and exploring modern styling techniques ✨.
+I use GitHub to document my progress and collaborate on software solutions that prioritize clean architecture and intuitive UI. 🚀
 
 <!--
 **Fiza-hub139/fiza-hub139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
