@@ -32,17 +32,12 @@ Driven by curiosity and a commitment to continuous learning, I focus on writing 
 
 ---
 
-## 📊 GitHub Account:
-(https://github.com/Fiza-hub139)
-
-
----
-
 ## 🤝 Let's Connect!
 
 I am always open to collaborating on interesting projects, sharing knowledge, or just chatting about code and design. 
 
-* 💼 **LinkedIn:** [[Your LinkedIn Profile Link](https://www.linkedin.com/in/fiza-a-b92803334/)]
+* 📊 **GitHub Account:** (https://github.com/Fiza-hub139)
+* 💼 **LinkedIn:** [[Fiza's Profile Link](https://www.linkedin.com/in/fiza-a-b92803334/)]
 * 📧 **Email:** [fiza38846@gmail.com]
 
 ⚡ *“Simplicity is the soul of efficiency.”* Let's build something great together!
