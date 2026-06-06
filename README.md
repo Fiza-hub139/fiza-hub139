@@ -32,10 +32,8 @@ Driven by curiosity and a commitment to continuous learning, I focus on writing 
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<!-- This section uses dynamic badges that update automatically based on your real activity! -->
-![Fiza's GitHub Stats](https://github.com/Fiza-hub139)
+## 📊 GitHub Account:
+(https://github.com/Fiza-hub139)
 
 
 ---
