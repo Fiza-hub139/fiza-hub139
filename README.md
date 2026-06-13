@@ -14,7 +14,7 @@ Driven by curiosity and a commitment to continuous learning, I focus on writing 
 * Developing interactive applications, CLI tools, and logic-based programs.
 * Working with core libraries to handle data, file systems, and API integrations.
 
-### 🌐 Web Development & UI/UX
+### 🌐 Web Development
 * Crafting responsive, modern, and visually appealing user interfaces.
 * Implementing clean frontend layouts using modern **HTML5**, **CSS3**, and **JavaScript**.
 * Applying foundational design pillars to create unique, user-attracting, and intuitive experiences.
