@@ -43,5 +43,5 @@ I am always open to collaborating on interesting projects, sharing knowledge, or
 * 💼 **LinkedIn:** [[Fiza's Profile Link](https://www.linkedin.com/in/fiza-a-b92803334/)]
 * 📧 **Email:** [fiza38846@gmail.com]
 
->⚡ *“Simplicity is the soul of efficiency.”* Let's build something great together!
--->
+> ⚡ *“Simplicity is the soul of efficiency.”* Let's build something great together!
+
