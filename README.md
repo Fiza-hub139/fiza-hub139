@@ -1,4 +1,4 @@
-![Alt text](banner (2).png)
+![Alt text](banner(2).png)
 
 
 Hello, I’m Fiza👋
